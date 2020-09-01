@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    background: red;
+    color: white;
+    font: bold;
+}
+
+.align {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav > ul > li{
+    float: left;
+}
+
+nav ul::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    width: 250px;
+}
+
+nav ul li a:hover {
+    background-color: red;
+}
+
+.list,
+.dropedown {
+    padding: 0;
+    margin: 0;
+}
+
+.list {
+    margin-right: 10px;
+}
+nav ul ul {
+    display: none;
+    position: absolute;
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+.privet {
+    position: absolute;
+    top: -13.5%;
+    left: 96.7%;
+    padding: 0;
+    width: 150px;
+}
+
+nav ul ul ul li {
+    display: none;
+}
+
+.active:hover li{
+    display: block;
+}
+
+a:hover {
+    color: white;
+}
+.zam {
+    width: 110px;
+}

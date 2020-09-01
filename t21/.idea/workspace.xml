@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba1120d-4a62-46db-961d-f8da219dbf59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../t00/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gQ84ECMFzK8BbE1ylx94miATJx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba1120d-4a62-46db-961d-f8da219dbf59" name="Default Changelist" comment="" />
+      <created>1598035262679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598035262679</updated>
+      <workItem from="1598035263702" duration="2297000" />
+      <workItem from="1598186309355" duration="179000" />
+      <workItem from="1598186701636" duration="107000" />
+      <workItem from="1598186884755" duration="1195000" />
+      <workItem from="1598191769468" duration="14000" />
+      <workItem from="1598362563809" duration="164000" />
+      <workItem from="1598388971482" duration="16000" />
+      <workItem from="1598551123661" duration="2414000" />
+      <workItem from="1598561620748" duration="3120000" />
+      <workItem from="1598630580328" duration="7108000" />
+      <workItem from="1598644658156" duration="2437000" />
+      <workItem from="1598701685022" duration="225000" />
+      <workItem from="1598701983789" duration="8000" />
+      <workItem from="1598703174011" duration="1444000" />
+      <workItem from="1598710921275" duration="560000" />
+      <workItem from="1598889405002" duration="634000" />
+      <workItem from="1598894204453" duration="93000" />
+      <workItem from="1598895704673" duration="570000" />
+      <workItem from="1598900555669" duration="106000" />
+      <workItem from="1598983788546" duration="815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

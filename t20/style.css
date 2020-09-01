@@ -1,0 +1,23 @@
+.figure {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+    animation: move 8s infinite alternate;
+}
+
+.figure:hover {
+    background-color: green;
+    transition: 2.1s;
+}
+
+@keyframes move {
+    0% {
+        left: 0%;
+    }
+
+    100% {
+        left: calc(100% - 150px);
+    }
+}

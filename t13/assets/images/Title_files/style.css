@@ -1,0 +1,36 @@
+.match{
+    display: flex;
+    flex-direction: column;
+}
+.fire{
+    margin: 0 auto;
+    width: 195px;
+    height: 195px;
+    background: red;
+    top: 20%;
+    left: 45%;
+    transform: rotate(45deg);
+    border-radius: 0 100px 100px 100px;
+    background: linear-gradient(135deg, red, #f49708);
+
+}
+
+.top{
+    margin: 0 auto;
+    width: 40px;
+    height: 60px;
+    background: saddlebrown;
+    border-radius:60px/75px;
+
+}
+.stick{
+    margin: 0 auto;
+    width: 25.5px;
+    height: 300px;
+    background-color: sandybrown;
+    z-index: -1;
+    border: 1px solid brown;
+    display: flex;
+    justify-content: center;
+
+}

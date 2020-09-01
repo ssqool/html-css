@@ -1,0 +1,91 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+    max-width: 912px;
+    margin: 0 auto;
+}
+
+.header1 {
+    color: orangered;
+    display: flex;
+
+}
+
+.header2 {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+.checkbox {
+    display: none;
+}
+
+.radio-container {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+
+input:checked + span {
+    background: darkblue;
+    color: white;
+
+}
+
+input:checked + span::after {
+    margin-left: 15px ;
+    content: '\2713';
+}
+
+.fake {
+    display: flex;
+    width: 300px;
+    height: 70px;
+    border: 1px solid grey;
+    border-radius: 40px;
+    color: grey;
+    align-items: center;
+    justify-content: center;
+}
+
+.Job input {
+    width: 94.2%;
+
+}
+
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 10px;
+}
+
+.Name-Email {
+    display: inline-block;
+    width: 97%;
+}
+
+.name, .email {
+    width: 47%;
+}
+
+.send {
+    border: none;
+    width: 97%;
+    padding-right: 50px;
+    line-height: 50px;
+    color: white;
+    background-color: orangered;
+    margin: 10px;
+}
+
+.send:hover {
+    transition: 1.1s;
+    background-color: blue;
+}
+

@@ -1,0 +1,8 @@
+@media print {
+    .text {
+        float: right;
+    }
+}
+img{
+    padding-right: 10px;
+}
