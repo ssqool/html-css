@@ -1,7 +1,8 @@
-.man{
+.man {
     display: flex;
     justify-content: space-between;
 }
+
 .kartinka:hover ~ .man1 img:nth-child(odd),
 .kartinka:hover ~ .man2 img:nth-child(even) {
     opacity: 0;

@@ -8,7 +8,7 @@ h2 {
     grid-template-columns: repeat(16, 1fr);
     grid-gap: 1rem;
     margin: 0 auto;
-    max-width: 2000px;
+    max-width: 1400px;
     border: 2px solid black;
     border-radius: 10px;
     padding-top: 20px;
@@ -114,22 +114,6 @@ img {
 }
 
 @media(max-width: 700px) {
-    /*.comics {*/
-    /*    display: grid;*/
-    /*    grid-template-columns: repeat(16, 1fr);*/
-    /*    margin: 0 auto;*/
-    /*    max-width: 2000px;*/
-    /*    border: 2px solid black;*/
-    /*    border-radius: 10px;*/
-    /*    padding-top: 10px;*/
-    /*    padding-bottom: 10px;*/
-    /*    padding-left: 20px;*/
-    /*    padding-right: 5px;*/
-    /*}*/
-
-    .comics {
-        display: none;
-
     .comic {
         grid-gap: 0rem;
     }
@@ -148,15 +132,17 @@ img {
 
     .panel-4 {
         grid-column: span 10;
+        grid-row: 4;
     }
 
     .panel-5 {
         grid-column: span 9;
+        grid-row: 5;
     }
 
     .panel-6 {
         grid-column: span 6;
-        grid-row: span 9/12;
+        grid-row: 4 / 6;
     }
 
     .panel-7 {

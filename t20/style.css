@@ -3,12 +3,12 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: red;
+    background-color: blue;
     animation: move 8s infinite alternate;
 }
 
 .figure:hover {
-    background-color: green;
+    background-color: red;
     transition: 2.1s;
 }
 

@@ -1,9 +1,11 @@
 .weather {
     display: flex;
 }
+
 .card {
     margin: 5px;
 }
+
 .date {
     background-color: dodgerblue;
     color: white;
@@ -13,9 +15,11 @@
     font-size: 1.5em;
     margin: 0;
 }
+
 .card:hover {
     box-shadow: 0 0 10px 0px black;
 }
+
 .degree {
      text-align: center;
      font-family: 'Lato', sans-serif;

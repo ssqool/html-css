@@ -1,8 +1,11 @@
 h1 {
     text-align: center;
-    background: red;
-    color: white;
+    background: black;
+    color: yellow;
     font: bold;
+    width: 700px;
+    margin: 20px auto;
+    line-height: 50px;
 }
 
 .align {
@@ -21,7 +24,7 @@ nav ul {
     margin: 10px;
 }
 
-nav > ul > li{
+nav > ul > li {
     float: left;
 }
 
@@ -38,7 +41,11 @@ nav ul li a {
     width: 250px;
 }
 
-nav ul li a:hover {
+.list1 li a:hover {
+    background-color: blue;
+}
+
+.list2 li a:hover {
     background-color: red;
 }
 
@@ -51,6 +58,7 @@ nav ul li a:hover {
 .list {
     margin-right: 10px;
 }
+
 nav ul ul {
     display: none;
     position: absolute;
@@ -76,9 +84,22 @@ nav ul ul ul li {
     display: block;
 }
 
-a:hover {
+.list1 a:hover {
+    color: red;
+}
+
+.list2 a:hover {
     color: white;
 }
+
 .zam {
     width: 110px;
+}
+
+li {
+    background-color: black;
+}
+
+.list a {
+    color: yellow;
 }
